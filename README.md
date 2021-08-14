@@ -1,1 +1,1 @@
-# simple-site1
+# pages
